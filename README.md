@@ -1,6 +1,7 @@
 # Calibration of a Deep Learning Model
 
-This project aim to understad if a deep learning model is calibrated (average accuracy match average confident) using Reliability Diagram and perform a re-calibration by the training with Focal Loss.
+When doing classification is a commong misconception to interpret $f(x)_i$ as the probability of pattern x being class i. This is true only when $P(y=i \mid x) = f(x)_i$, hence we say the model its **calibrated**. 
+In this project following [1](https://arxiv.org/abs/1706.04599), I will measure the calibration of my model and calibrate it using as loss function the Focal Loss. A conformal prediction is done at the end to have another measure of the calibration.
 
 
 ### Results
