@@ -2,6 +2,18 @@
 This project aim to understad if a deep learning model is calibrated (average accuracy match average confident) using Reliability Diagram and perform a re-calibration by the training with Focal Loss.
 
 
+### Results
+
+<p float="left">
+  <img src="/images/reliability_diagram_before_calibration.png" width="100" /> 
+  <img src="/images/confidence_histogram_model_not_calibrated.png" width="100" />
+</p>
+
+<p float="center">
+  <img src="/images/calibrated model.png" width="100" />
+</p>
+  
+
 
 ### References
 
