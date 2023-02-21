@@ -5,14 +5,14 @@ This project aim to understad if a deep learning model is calibrated (average ac
 
 ### Results
 
-Below the Confidence histogram (left) and Reliability diagram (rigth) of the model before calibration:
+Below the Confidence histogram (left) and Reliability diagram (right) of the model before calibration:
 
 <p float="left">
   <img src="/images/confidence_histogram_model_not_calibrated.jpg" width="250" />
   <img src="/images/reliability_diagram_before_calibration.jpg" width="250" /> 
 </p>
 
-Below the Confidence histogram (left) and Reliability diagram (rigth) of the model after calibration using Focal-Loss:
+Below the Confidence histogram (left) and Reliability diagram (right) of the model after calibration using Focal-Loss:
 
 <p float="center">
   <img src="/images/calibrated model.jpg" width="500" />
