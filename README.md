@@ -5,12 +5,12 @@ This project aim to understad if a deep learning model is calibrated (average ac
 ### Results
 
 <p float="left">
-  <img src="/images/reliability_diagram_before_calibration.png" width="500" /> 
-  <img src="/images/confidence_histogram_model_not_calibrated.png" width="500" />
+  <img src="/images/reliability_diagram_before_calibration.png" width="250" /> 
+  <img src="/images/confidence_histogram_model_not_calibrated.png" width="250" />
 </p>
 
 <p float="center">
-  <img src="/images/calibrated model.png" width="1000" />
+  <img src="/images/calibrated model.png" width="500" />
 </p>
   
 
